@@ -14,9 +14,13 @@ El desafío del amigo secreto, un desafío propuesto por el staff de Allura Lata
 
 ## ¿Como funciona el programa? ##
 El usuario deberá escribir el nombre de algún amigo dentro del recuadro que dice "Digite el nombre de sus amigos" y posteriormente pulsar el botón de "Añadir".
+
 Deberá de repetir el paso anterior con todos los nombres de sus amigos que participarán en el sorteo.
+
 Una vez que todos los usuarios han sido seleccionados entonces se da clic en el botón de sortear amigo.
+
 Si el usuario no está satisfecho con el resultado, o busca volver a sortear la lista, entonces puede volver a pulsar el botón de "Sortear amigo" las veces que quiera.
+
 Si al usuario le gustaría vaciar la lista para comenzar de nuevo, puede pulsar el botón de "Reiniciar lista" en cualquier momento.
 
 *Si tienes alguna duda, puedes contactar al correo: carlosyoshy@hotmail.com*
